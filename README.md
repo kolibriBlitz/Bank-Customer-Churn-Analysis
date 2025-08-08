@@ -1,8 +1,9 @@
 # Bank-Customer-Churn-Analysis
 
 ## Navigation
-- [Jupyter Notebooks](code): Just the code and nothing but the code...and the Markdown
-- [Documentation](docs): ...
+- [Jupyter Notebooks](Code): Just the code and nothing but the code...and the Markdown
+- [Documentation](Maven-Guide): The tasks provided by Maven Analytics to guide me through the data analysis process
+- [Data](Data): Repository of csv and xslx files of the data used
 - [Deliverables](deliverables): Examples of project deliverables including their documentation
 
 ## Project Goals
